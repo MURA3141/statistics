@@ -19,7 +19,8 @@ data <- data.frame(
 > 
 > p + geom_jitter(position=position_jitter(width=0.2), shape=16) <br>
 >
-> ![image](https://github.com/MURA3141/statistics/assets/131435195/a54f86b5-4756-4e6b-b583-8341dcd45e56)
+><img width="534" alt="スクリーンショット 2023-10-10 20 15 15" src="https://github.com/MURA3141/statistics/assets/131435195/0657c4bc-25fa-4db9-b996-949a2915ea33">
+
 
 > 
 
